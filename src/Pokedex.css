@@ -1,0 +1,26 @@
+.Pokedex {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Pokedex-roster {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.Pokedex-winner {
+  background-color: green;
+}
+
+.Pokedex-loser {
+  background-color: red;
+}
+
+.Pokedex-winner-message {
+  font-size: 30px;
+  color: green;
+}
