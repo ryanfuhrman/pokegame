@@ -23,5 +23,3 @@ Start up the client
     `yarn start`
 
 Open the site in your browswer type or paste: `localhost:3000/` into the url bar.
-
-Added description and deployment steps
